@@ -15,3 +15,7 @@ A simple RESTful API built with **Node.js**, **Express**, and **MongoDB** that a
 npm install
 Environment Configuration .env file
 Run the Server
+
+## 🧪 API Testing with Postman
+
+You can test all endpoints using the Postman collection provided in this repository.
